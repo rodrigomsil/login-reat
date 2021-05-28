@@ -1,0 +1,12 @@
+.container-dashboard {
+  min-height: calc(100vh - 20rem);
+  display: flex;
+   flex-direction: column;
+   padding: 2rem 2rem;
+  padding-top: 2rem;
+}
+
+.button-dashboard {
+  margin-bottom: 4rem;
+}
+
